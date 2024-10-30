@@ -812,7 +812,7 @@
     "module_number": 6,
     "certification": "paid"
   },
-   {
+  {
     "id": 81,
     "platform": "edX",
     "free_course": "yes",
@@ -821,7 +821,7 @@
     "difficulty": "beginner",
     "module_number": 6,
   },
-{
+  {
     "id": 82,
     "platform": "Cloud Skills Boost",
     "free_course": "NO",
@@ -831,7 +831,7 @@
     "module_number": 7,
     "certification": "FREE"
   },
-{
+  {
     "id": 83,
     "platform": "udemy",
     "free_course": "no",
@@ -841,7 +841,7 @@
     "module_number": 8,
     "certification": "paid"
   },
-{
+  {
     "id": 84,
     "platform": "Abdul Bari",
     "free_course": "yes",
@@ -849,5 +849,14 @@
     "link": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
     "difficulty": "Intermediate",
     "module_number": 2,
+  },
+  {
+    "id":85,
+    "platform":"cyfrin updraft",
+    "free_course":"yes",
+    "course_name":"blockchain overview",
+    "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
+    "difficulty":"intermediate",
+    "module_number":1
   }
 ]
