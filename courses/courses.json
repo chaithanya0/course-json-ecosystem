@@ -839,4 +839,13 @@
     "difficulty": "Intermediate",
     "module_number": 2,
   },
+  {
+    "id":85,
+    "platform":"cyfrin updraft",
+    "free_course":"yes",
+    "course_name":"blockchain overview",
+    "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
+    "difficulty":"intermediate",
+    "module_number":1
+  },
 ]
