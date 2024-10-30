@@ -11,10 +11,10 @@
   },
   {
     "id": 1,
-    "Platform": "freeCodeCamp",
+    "Platform": "ui/ ux",
     "free_course": "yes",
     "course_name": "Responsive Web Design",
-    "link": "https://www.freecodecamp.org/learn/responsive-web-design/",
+    "link": "https://www.ui/ux.org/learn/responsive-web-design/",
     "difficulty": "beginner",
     "module_number": 5,
     "certification": "free"
