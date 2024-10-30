@@ -434,7 +434,7 @@
     "module_number": 6,
     "certification": "paid"
   },
-{
+  {
     "id": 43,
     "platform": "youtube",
     "free_course": "yes",
@@ -474,6 +474,17 @@
     "module_number": 6,
     "certification": "paid"
   },
+
+  {
+   "id": 8,
+    "platform": "java",
+    "free_course": "yes",
+    "course_name": "ML Ops",
+    "link": ":/https/www.edx.org/course/introduction-to-computer-science-and-programming-using-python",
+    "difficulty": "beginner",
+    "module_number": 6,
+    "certification": "paid"
+  }
     {
     "id": 47,
     "platform": "codemy",
@@ -838,5 +849,5 @@
     "link": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
     "difficulty": "Intermediate",
     "module_number": 2,
-  },
+  }
 ]
