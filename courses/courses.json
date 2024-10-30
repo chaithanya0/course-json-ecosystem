@@ -857,6 +857,15 @@
     "course_name":"blockchain overview",
     "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
     "difficulty":"intermediate",
-    "module_number":1
+    "module_number":1,
+  },
+  {
+    "id":85,
+    "platform":"youtube",
+    "free_course":"yes",
+    "course_name":"freeCodeCamp.org",
+    "link":"https://www.youtube.com/watch?v=3hLmDS179YE",
+    "difficulty":"intermediate",
+    "module_number":2
   }
 ]
