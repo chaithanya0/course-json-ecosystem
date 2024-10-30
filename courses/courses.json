@@ -858,5 +858,13 @@
     "link":"https://updraft.cyfrin.io/courses/blockchain-basics/basics/how-the-blockchain-works?lesson_format=video",
     "difficulty":"intermediate",
     "module_number":1
-  }
+  },
+  {
+    "id":86,
+    "platform":"cs50",
+    "free_course":"yes",
+    "course_name":"phyton",
+    "link":"ttps://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V",
+    "difficulty":"intermediate",
+    "module_number":1
 ]
